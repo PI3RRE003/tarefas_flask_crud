@@ -14,3 +14,5 @@ RESPOSTA ERRO SERVIDOR = 500 A 599
 
 DOCUMENTAR API : https://swagger.io/ 
 EDITAR API: https://editor.swagger.io/ IMPORTAR AQUIVO DO PC
+
+DOCUMENTAÇÃO FLASK: https://flask.palletsprojects.com/en/stable/quickstart/#routing
