@@ -16,3 +16,4 @@ DOCUMENTAR API : https://swagger.io/
 EDITAR API: https://editor.swagger.io/ IMPORTAR AQUIVO DO PC
 
 DOCUMENTAÇÃO FLASK: https://flask.palletsprojects.com/en/stable/quickstart/#routing
+DOCUMENTAÇÃO TESTES AUTOMATIZADOS PYTEST: https://docs.pytest.org/en/stable/
